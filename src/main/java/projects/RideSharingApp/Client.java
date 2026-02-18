@@ -5,6 +5,7 @@ import projects.RideSharingApp.VehicleService.Bike;
 import projects.RideSharingApp.VehicleService.Car;
 import projects.RideSharingApp.VehicleService.Vehicle;
 
+
 public class Client {
     public static void main(String[] args) throws InterruptedException {
         Location loc1 = new Location(12.3434, 10.233);
